@@ -1,0 +1,17 @@
+{
+    "credit": 0,
+    "transactions": [
+        {
+            "value": -42,
+            "category": "transpot"
+        },
+        {
+            "category": "buy",
+            "value": "100"
+        },
+        {
+            "category": "buy",
+            "value": "-200"
+        }
+    ]
+}

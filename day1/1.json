@@ -1,0 +1,12 @@
+{
+    "transactions": [
+        {
+            "value": -42.08,
+            "category": "transpot"
+        },
+        {
+            "value": 1234,
+            "category": "salary"
+        }
+    ]
+}
